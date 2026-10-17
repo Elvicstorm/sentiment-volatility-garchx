@@ -1,0 +1,8 @@
+*.csv
+data/*
+!data/.gitkeep
+result_table_*/
+white_tests_*/
+plots/
+__pycache__/
+.ipynb_checkpoints/
